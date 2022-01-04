@@ -1,35 +1,35 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
+global.linkGC = ['https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL', 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '62857139649630': { // put your number here
-    name: 'Owner Metro Bot/Creator games-wabot',
+  '6282221792667': { // put your number here
+    name: 'Owner /Creator games-wabot',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: false, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
     },
-  '6281998903280': { // put your number here
-  name: 'KyuraSenpai/laucher bot',
+  '6282221792667': { // put your number here
+  name: 'donasi /laucher bot',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '6281390658325': { // put your number here
+  '6282221792667': { // put your number here
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '6282256115584': { // put your number here
-    name: 'Dave',
+  '6282221792667': { // put your number here
+    name: 'develover',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '60199782326': {
-    name: 'Adiixyz',
+  '6282221792667': {
+    name: 'ixyz',
     isReport: true, // if true this number will send if user use command /report or /join
   },
-  '6285713964963': {
+  '6282221792667': {
     isReport: true
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
@@ -60,7 +60,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'From'
-global.author = 'Kyura BOT'
+global.author = 'Botcah BOT'
 
 global.multiplier = 70 // The higher, The harder levelup
 
